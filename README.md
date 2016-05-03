@@ -1,4 +1,4 @@
-storm-focused-crawler
+storm-focused-crawler case study
 =====================
 
 Collects multimedia content shared through social networks.
